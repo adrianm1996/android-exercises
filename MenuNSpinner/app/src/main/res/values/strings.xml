@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenuNSpinner</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_change_color">Change color</string>
+    <string array>
+    </string>
+</resources>
